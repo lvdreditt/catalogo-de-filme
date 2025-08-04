@@ -1,8 +1,10 @@
 
 body {
-color: white;
-background: rgb(0, 0, 0);
+color: rgb(0, 0, 0);
+background: rgb(240, 230, 172);
 margin: 0px; }
+
+
  header {
 border-bottom: solid 2px rgb(42, 122, 228);
 padding: 20px;
